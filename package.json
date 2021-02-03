@@ -4,7 +4,6 @@
   "description": "![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
   "scripts": {
-    "build": "npm build --output /",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/plires/social-proof-section-master/issues"
   },
-  "homepage": "https://github.com/plires/social-proof-section-master#readme",
-  "dependencies": {
-    "bootstrap": "^4.6.0"
-  }
+  "homepage": "https://github.com/plires/social-proof-section-master#readme"
 }
