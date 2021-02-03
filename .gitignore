@@ -16,3 +16,5 @@
 example.html
 /design
 /node_modules
+
+.vercel

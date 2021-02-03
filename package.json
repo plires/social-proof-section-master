@@ -4,6 +4,7 @@
   "description": "![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
   "scripts": {
+    "build": "[my-framework] build --output public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
